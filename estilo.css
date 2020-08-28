@@ -1,0 +1,215 @@
+html, body {
+      height: 100%;
+      width: 100%;
+      font-family: 'Hind', sans-serif;
+      margin: 0;
+}
+
+
+p {
+      font-size: 1.2em;
+}
+
+
+h4 {
+      color: #fff;
+}
+
+
+.lead {
+      color: #fff;
+}
+
+
+.navbar {
+      padding: 1% 0;
+      font-size: 1.2em;
+      background: transparent !important;
+      transition: 700ms ease;
+}
+
+
+.navbar.scrolled {
+      background: #29B6F6 !important;      
+}
+
+
+.navbar-nav li{
+      padding: .8rem;
+}
+
+
+
+.nav-link {
+      font-size: 1em;
+      color: black !important;
+}
+
+
+
+
+.nav-link:hover {
+      color: #fff !important;
+}
+
+
+
+
+.dropdown-item {
+      color: black;
+      padding-top: .8rem;
+}
+
+
+
+.dropdown-menu {
+      border-radius: 7px;
+      background: #29B6F6;
+      text-transform: uppercase;    
+}
+
+
+  
+.dropdown-item:hover {
+      background-color: #29B6F6;
+      color: #fff !important;
+}
+
+
+.navbar-brand {
+      width: 72px;
+}
+
+
+
+#home {
+      background: url(bg.jpeg) no-repeat center center fixed;
+      display: table;
+      height: 100%;
+      position: relative;
+      width: 100%;
+      min-width: 320px;
+      background-size: cover;
+}
+
+
+
+.landing-text {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      color: #fff;
+}
+
+
+
+
+.btn {
+      background-color: rgba(63, 81, 181, 0);
+      color: #fff;
+      border: 1px solid #fff;
+}
+
+
+.btn:hover {
+      background-color: #29B6F6;
+      border: 1px solid #29B6F6;
+      color: rgb(10, 10, 10);
+}
+
+
+.display-4 {
+      margin-top: 5%;
+      color: #29B6F6;
+}
+
+
+.hr1 {
+      border: 1px solid #29B6F6;
+      width: 25%;
+      margin-top: 0;
+}
+
+
+.hr2 {
+      border: 1px solid #29B6F6;
+
+}
+
+
+
+.jumbotron {
+      background-color: #29B6F6;
+      border-radius: 0;
+      margin: 0;     
+}
+
+
+.social {
+      margin-top: 2%;
+}
+
+
+
+.social a {
+      font-size: 4em;
+      padding: 1.5rem 3rem;
+}
+
+
+
+.fa-facebook {
+      color: #3b5998;
+}
+
+
+.fa-whatsapp {
+      color: #25d366;
+}
+
+
+.fa-instagram {
+      color: #cd486b;
+}
+
+
+.fa-facebook:hover {
+      color: #3b589883;
+}
+
+
+.fa-whatsapp:hover {
+      color: #25d36585;
+}
+
+
+.fa-instagram:hover {
+      color: #cd486b85;
+}
+
+
+footer {
+      background-color: #212121;
+}
+
+.copy {
+      color: #29B6F6;
+}
+
+
+.material-icons {
+      font-family: 'Material Icons';
+      font-weight: normal;
+      font-style: normal;
+      font-size: 24px;  /* Preferred icon size */
+      display: inline-block;
+      line-height: 1;
+      text-transform: none;
+      letter-spacing: normal;
+      word-wrap: normal;
+      white-space: nowrap;
+      direction: ltr;
+}
+
+
+
